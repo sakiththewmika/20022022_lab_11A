@@ -1,4 +1,6 @@
-# SCS2211 - LABORATARY 02
-# PRACTICAL - 11-A
-# P K M S Themika
-# 22002022
+# SCS2211 - Laboratory 02  
+## Practical - 11-A  
+
+### Student Information  
+- **Name:** P K M S Thewmika  
+- **Student ID:** 22002022 
